@@ -1,8 +1,8 @@
 //
 //  ViewController.h
-//  StickCollectionView
+//  PushTest
 //
-//  Created by IMac on 16/3/10.
+//  Created by IMac on 16/3/9.
 //  Copyright © 2016年 IMac. All rights reserved.
 //
 
