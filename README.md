@@ -5,7 +5,7 @@
 
 ![gif](https://github.com/RanYeee/StickCollectionView/blob/master/screenshots/Untitled.gif)
 
->关键代码
+
 ```
 - (NSArray *)layoutAttributesForElementsInRect:(CGRect)rect {
     
@@ -28,4 +28,5 @@
     
     return allItems;
 }
+
 ```
